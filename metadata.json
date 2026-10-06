@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Adaptive Smart Learning Station",
+  "description": "An intelligent, adaptive personalized learning platform with real-time knowledge profiling, computerized adaptive testing, AI tutor, and multi-role dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
